@@ -1,0 +1,219 @@
+[
+    {
+        "timestamp": "2026-08-05 00:24:12",
+        "visual_hours": 3.96,
+        "reading_hours": 1.03,
+        "audio_hours": 1.78,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-06 00:24:12",
+        "visual_hours": 3.33,
+        "reading_hours": 1.74,
+        "audio_hours": 2.18,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-07 00:24:12",
+        "visual_hours": 4.34,
+        "reading_hours": 1.09,
+        "audio_hours": 1.92,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-08 00:24:12",
+        "visual_hours": 3.04,
+        "reading_hours": 1.22,
+        "audio_hours": 2.01,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-09 00:24:12",
+        "visual_hours": 3.04,
+        "reading_hours": 1.2,
+        "audio_hours": 2.15,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-10 00:24:12",
+        "visual_hours": 3.82,
+        "reading_hours": 1.22,
+        "audio_hours": 2.09,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-11 00:24:12",
+        "visual_hours": 4.21,
+        "reading_hours": 1.01,
+        "audio_hours": 2.31,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-12 00:24:12",
+        "visual_hours": 4.05,
+        "reading_hours": 1.34,
+        "audio_hours": 1.66,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-13 00:24:12",
+        "visual_hours": 4.44,
+        "reading_hours": 1.34,
+        "audio_hours": 1.59,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-14 00:24:12",
+        "visual_hours": 3.15,
+        "reading_hours": 1.85,
+        "audio_hours": 2.1,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-15 00:24:12",
+        "visual_hours": 4.21,
+        "reading_hours": 1.73,
+        "audio_hours": 2.04,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-16 00:24:12",
+        "visual_hours": 4.46,
+        "reading_hours": 1.38,
+        "audio_hours": 2.05,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-17 00:24:12",
+        "visual_hours": 4.24,
+        "reading_hours": 1.62,
+        "audio_hours": 2.36,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-18 00:24:12",
+        "visual_hours": 3.87,
+        "reading_hours": 1.7,
+        "audio_hours": 1.55,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-19 00:24:12",
+        "visual_hours": 3.34,
+        "reading_hours": 1.29,
+        "audio_hours": 1.58,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-20 00:24:12",
+        "visual_hours": 3.35,
+        "reading_hours": 1.1,
+        "audio_hours": 1.78,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-21 00:24:12",
+        "visual_hours": 3.95,
+        "reading_hours": 1.36,
+        "audio_hours": 1.87,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-22 00:24:12",
+        "visual_hours": 3.31,
+        "reading_hours": 1.27,
+        "audio_hours": 2.44,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-23 00:24:12",
+        "visual_hours": 3.97,
+        "reading_hours": 1.61,
+        "audio_hours": 1.67,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-24 00:24:12",
+        "visual_hours": 4.09,
+        "reading_hours": 1.16,
+        "audio_hours": 1.88,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-25 00:24:12",
+        "visual_hours": 4.48,
+        "reading_hours": 1.64,
+        "audio_hours": 2.06,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-26 00:24:12",
+        "visual_hours": 4.03,
+        "reading_hours": 1.84,
+        "audio_hours": 2.28,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-27 00:24:12",
+        "visual_hours": 3.34,
+        "reading_hours": 1.03,
+        "audio_hours": 1.82,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-28 00:24:12",
+        "visual_hours": 3.4,
+        "reading_hours": 1.21,
+        "audio_hours": 2.44,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-29 00:24:12",
+        "visual_hours": 4.31,
+        "reading_hours": 1.31,
+        "audio_hours": 2.16,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-30 00:24:12",
+        "visual_hours": 3.59,
+        "reading_hours": 1.91,
+        "audio_hours": 1.96,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-08-31 00:24:12",
+        "visual_hours": 3.4,
+        "reading_hours": 1.25,
+        "audio_hours": 2.06,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-09-01 00:24:12",
+        "visual_hours": 3.39,
+        "reading_hours": 1.58,
+        "audio_hours": 2.4,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-09-02 00:24:12",
+        "visual_hours": 3.6,
+        "reading_hours": 1.22,
+        "audio_hours": 2.5,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-09-03 00:24:12",
+        "visual_hours": 3.76,
+        "reading_hours": 1.09,
+        "audio_hours": 1.55,
+        "status": "NORMAL"
+    },
+    {
+        "timestamp": "2026-09-04 02:00:00",
+        "visual_hours": 6.5,
+        "reading_hours": 8.0,
+        "audio_hours": 0.0,
+        "status": "SUSPICIOUS"
+    }
+]
