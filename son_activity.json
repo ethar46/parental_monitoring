@@ -1,6 +1,6 @@
 {
-    "timestamp": "2026-09-04 13:28:47",
-    "activity_category": "\u0646\u0634\u0627\u0637 \u0639\u0627\u0645",
-    "details": "\u0627\u0644\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0645\u0641\u062a\u0648\u062d: ['org.qpython.qpy']",
+    "timestamp": "2026-09-04 13:30:04",
+    "activity_category": "Interactive App (Active)",
+    "details": "Active Package: ['org.qpython.qpy']",
     "raw_package": "['org.qpython.qpy']"
 }
