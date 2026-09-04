@@ -215,5 +215,12 @@
         "reading_hours": 8.0,
         "audio_hours": 0.0,
         "status": "SUSPICIOUS"
+    },
+    {
+        "timestamp": "2026-09-04 12:41:16",
+        "visual_hours": 2.0,
+        "reading_hours": 7.33,
+        "audio_hours": 0.0,
+        "status": "LIVE_MONITORED_ANOMALY"
     }
 ]
